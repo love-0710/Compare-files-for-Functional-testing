@@ -1,6 +1,10 @@
 # Compare-files-for-Functional-testing
 
 
+<pre>
+<code>
+
+
 import os
 import pandas as pd
 
@@ -90,3 +94,9 @@ with open("extra_rows_in_before.txt", "w") as f:
 
 print("✅ Comparison completed.")
 print("Files generated:\n - match_report.csv\n - mismatch_report.csv\n - extra_rows_in_before.txt")
+
+    
+    
+</code>
+    
+</pre>
